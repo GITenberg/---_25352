@@ -1,0 +1,34 @@
+_repo: '---_25352'
+_version: 0.1.0
+alternative_title: Chang Hen Ge
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bai, Juyi
+    aliases:
+    - Po, Chü-i
+    - 白居易
+    - Po, Chu-i
+    birthdate: 772
+    deathdate: 846
+    gutenberg_agent_id: '31272'
+    url: http://www.gutenberg.org/2009/agents/31272
+    wikipedia: http://en.wikipedia.org/wiki/Bai_Juyi
+description: ''
+gutenberg_issued: '2008-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25352'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tang Xuanzong, Emperor of China, 685-762 -- Poetry'
+- !lcsh 'Yang, gui fei, 719-756 -- Poetry'
+- !lcc 'PL'
+- !lcsh 'Chinese poetry'
+title: 長恨歌
+url: http://www.gutenberg.org/ebooks/25352
