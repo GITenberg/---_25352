@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31272
     wikipedia: http://en.wikipedia.org/wiki/Bai_Juyi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25352#---
 gutenberg_issued: '2008-05-06'
 gutenberg_type: Text
 identifiers:
